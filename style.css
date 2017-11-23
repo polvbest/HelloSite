@@ -1,0 +1,24 @@
+/*@font-size-base: 20px;*/
+body {
+	background-color: #42474f;
+}
+.welcome-text{
+	margin: 0px;
+	/*font-weight: bolder;*/
+	color: #42474f;
+	text-align: center;
+	font-size: 45px;
+	font-weight: 800;
+    font-family: "PT Serif",serif;
+    /*text-shadow: 0 1px 1px #233;*/
+    letter-spacing: 0.5rem;
+}
+
+form {
+	font-size: 17px;
+}
+
+input[type="text"]{
+	font-size: 17px; 
+   	font-family: Tahoma;
+}
